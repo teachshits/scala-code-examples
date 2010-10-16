@@ -1,0 +1,36 @@
+/home/matthias/github/scala-code-examples/bin:/home/matthias/Anwendungen/eclipse-java-galileo/configuration/org.eclipse.osgi/bundles/320/1/.cp/lib/scala-library.jar:/home/matthias/Anwendungen/eclipse-java-galileo/configuration/org.eclipse.osgi/bundles/320/1/.cp/lib/scala-dbc.jar:/home/matthias/Anwendungen/eclipse-java-galileo/configuration/org.eclipse.osgi/bundles/320/1/.cp/lib/scala-swing.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/gnome-java-bridge.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/pulse-java.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/localedata.jar
+-------
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/src/abstractTypes.scala
+/home/matthias/github/scala-code-examples/src/bigint.scala -> /home/matthias/github/scala-code-examples/src/bigint.scala
+/home/matthias/github/scala-code-examples/src/complexOps.scala -> /home/matthias/github/scala-code-examples/src/complexOps.scala
+-------
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/bin/abstractTypes$Buffer.class
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/bin/abstractTypes$SeqBuffer.class
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/bin/abstractTypes$$anon$1.class
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/bin/abstractTypes$.class
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/bin/abstractTypes.class
+/home/matthias/github/scala-code-examples/src/abstractTypes.scala -> /home/matthias/github/scala-code-examples/bin/abstractTypes$$anon$2.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Ping.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Pong.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Stop.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/PingMessage.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Ping$.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Pong$$anonfun$act$2.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/PongMessage.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/SendPing.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/SendPing$.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Start$.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/pingpong$.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/pingpong.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Ping$$anonfun$act$1$$anonfun$apply$1.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Start.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Stop$.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Pong$.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Ping$$anonfun$act$1.class
+/home/matthias/github/scala-code-examples/src/examples/actors/pingpong.scala -> /home/matthias/github/scala-code-examples/bin/examples/actors/Pong$$anonfun$act$2$$anonfun$apply$2.class
+/home/matthias/github/scala-code-examples/src/bigint.scala -> /home/matthias/github/scala-code-examples/bin/bigint.class
+/home/matthias/github/scala-code-examples/src/bigint.scala -> /home/matthias/github/scala-code-examples/bin/bigint$.class
+/home/matthias/github/scala-code-examples/src/complexOps.scala -> /home/matthias/github/scala-code-examples/bin/complexOps$Complex.class
+/home/matthias/github/scala-code-examples/src/complexOps.scala -> /home/matthias/github/scala-code-examples/bin/complexOps.class
+/home/matthias/github/scala-code-examples/src/complexOps.scala -> /home/matthias/github/scala-code-examples/bin/complexOps$.class
